@@ -30,12 +30,13 @@ To ensure the models represent real-world clinical accuracy, the following pipel
 ### Feature Importance
 By analyzing the `.feature_importances_` of the tuned models, we identified the top clinical indicators driving disease progression. Both models heavily prioritized specific liver function tests.
 
-*(Upload your `feature_importance_final.png` to your repo, and it will appear here!)*
-![Top Features](feature_importance_final.png)
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/cc2b6980-f440-449b-b66d-64ef9d38f4d9" />
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/49ca585a-4748-471a-8805-1aaba2309af2" />
+
 
 ### Model Performance
-*(Upload your `model_comparison.png` to your repo, and it will appear here!)*
-![Model Performance](model_comparison.png)
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/fe0cca1a-cc28-4061-8680-3272d5d20123" />
+
 
 * **Clinical Insight:** The models demonstrated that baseline clinical measurements (specifically Copper, Prothrombin, and Bilirubin) are robust predictors of late-stage cirrhosis.
 
